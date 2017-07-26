@@ -1,0 +1,13 @@
+#Wed Jul 26 17:39:02 CST 2017
+renamed.3=classes4.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.3=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\xUtils-2.6.14_7960ab0915a71ea5a2217e753e0392bcab44b0e9
+base.2=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gprintersdkv22_1e819b8c706eae6d958b41fe94c8a511ee7cc381
+base.1=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jcc-bate-0.7.3_86ca98d9c15f8977dc10835b91b5467a44f1bbc8
+base.0=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\ksoap2-android-assembly-2.5.2-jar-with-dependencies_04219f6c06b5d26a10c8e8b2126776ab2f89d0dc
+file.3=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\xUtils-2.6.14_7960ab0915a71ea5a2217e753e0392bcab44b0e9\\classes.dex
+file.2=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gprintersdkv22_1e819b8c706eae6d958b41fe94c8a511ee7cc381\\classes.dex
+file.1=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jcc-bate-0.7.3_86ca98d9c15f8977dc10835b91b5467a44f1bbc8\\classes.dex
+file.0=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\ksoap2-android-assembly-2.5.2-jar-with-dependencies_04219f6c06b5d26a10c8e8b2126776ab2f89d0dc\\classes.dex

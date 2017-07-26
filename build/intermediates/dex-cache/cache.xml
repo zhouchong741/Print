@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\Application\Application\GpSample\app\libs\gprintersdkv22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e5963d11800f4a64642ed96da4be33d2d38b2f2">
+        <dex dex="D:\AndroidStudio\Application\Application\GpSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\gprintersdkv22_1e819b8c706eae6d958b41fe94c8a511ee7cc381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\Application\Application\GpSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudio\Application\Application\GpSample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3baf52ff6b50cc236264413a56481f17a3664d3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\Application\Application\GpSample\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\AndroidStudio\Application\Application\GpSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_7960ab0915a71ea5a2217e753e0392bcab44b0e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\Application\Application\GpSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc94715b3567c86b0c01cc8a5ba8527b63223370">
+        <dex dex="D:\AndroidStudio\Application\Application\GpSample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d45008bc46c38d1cc44abf07c7c019dc26024469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\Application\Application\GpSample\app\libs\jcc-bate-0.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c9410f6468f1fcc879f39f09936a03fdadb86ea">
+        <dex dex="D:\AndroidStudio\Application\Application\GpSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\jcc-bate-0.7.3_86ca98d9c15f8977dc10835b91b5467a44f1bbc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\Application\Application\GpSample\app\libs\ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ccebb2cae2c177d6dd91409a7007806d9aa269b4">
+        <dex dex="D:\AndroidStudio\Application\Application\GpSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-2.5.2-jar-with-dependencies_04219f6c06b5d26a10c8e8b2126776ab2f89d0dc\classes.dex" />
+    </item>
+
+</items>

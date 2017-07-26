@@ -1,0 +1,7 @@
+#Wed Jul 26 17:43:16 CST 2017
+base.0=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d45008bc46c38d1cc44abf07c7c019dc26024469
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3baf52ff6b50cc236264413a56481f17a3664d3a\\classes.dex
+base.1=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3baf52ff6b50cc236264413a56481f17a3664d3a
+file.0=D\:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d45008bc46c38d1cc44abf07c7c019dc26024469\\classes.dex

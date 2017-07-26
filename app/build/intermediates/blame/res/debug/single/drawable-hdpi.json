@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_printer.png",
+        "source": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\src\\main\\res\\drawable-hdpi\\ic_printer.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\labelprint.png",
+        "source": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\src\\main\\res\\drawable-hdpi\\labelprint.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\huibo_logo.png",
+        "source": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\src\\main\\res\\drawable-hdpi\\huibo_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launcher.png",
+        "source": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\src\\main\\res\\drawable-hdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\Application\\Application\\GpSample\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
